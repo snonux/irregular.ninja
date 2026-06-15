@@ -1,6 +1,6 @@
 # irregular.ninja
 
-Photo site generation for [**irregular.ninja**](https://irregular.ninja) and [**alt.irregular.ninja**](https://alt.irregular.ninja).
+Photo site generation for [**irregular.ninja**](https://irregular.ninja) and [**alt.irregular.ninja**](https://alt.irregular.ninja) (the latter URL brings you to a site with the 2nd-order photos, which I don't like quite as much as the photos on the "main" page).
 
 This repository contains the working directories and build automation for generating static photo albums using [`shuriken.sh`](https://codeberg.org/snonux/shuriken.sh), a lightweight shell-based photo album generator.
 
