@@ -1,6 +1,6 @@
 # Generated album output
 dist/
-cache/exif
+cache/
 
 # Temporary / cache files
 *.tmp
