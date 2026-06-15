@@ -1,0 +1,6 @@
+# Generated album output
+dist/
+
+# Temporary / cache files
+*.tmp
+*.log
