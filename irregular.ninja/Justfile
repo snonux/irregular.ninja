@@ -7,3 +7,11 @@ generate:
 # Dry-run to preview changes without writing
 dry-run:
 	shuriken --dry-run
+
+# Publish generated dist/ to configured rsync destinations
+sync:
+	shuriken --sync
+
+# Publish with a dry-run to preview what sync would do
+sync-dry-run:
+	shuriken --sync --dry-run
