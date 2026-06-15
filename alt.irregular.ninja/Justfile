@@ -1,0 +1,9 @@
+# Generate the photo album using shuriken
+
+# Default recipe: generate the album
+generate:
+	shuriken --generate
+
+# Dry-run to preview changes without writing
+dry-run:
+	shuriken --dry-run
