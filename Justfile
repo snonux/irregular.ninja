@@ -1,5 +1,8 @@
 # Top-level Justfile for irregular.ninja photo sites
 
+# all
+all: generate sync
+
 # Generate both albums
 generate: generate-irregular generate-alt
 
