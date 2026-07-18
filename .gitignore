@@ -1,6 +1,7 @@
 # Generated album output
 dist/
 cache/
+.shuriken.dist.staging.*/
 
 # Temporary / cache files
 *.tmp
